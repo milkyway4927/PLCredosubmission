@@ -1,0 +1,19 @@
+
+^  //(syntax error)
+con syndra>=230) //missing lpar
+{
+  seraphin=1;
+}
+
+bbrand=94r; katarina=79r; ggaren+95; 
+
+renekton>rrrell;
+
+ggraves=600 //missing semicolon
+ddiana=145+65-90*8;
+yyyone/20 //missing semicolon : Rule states that semicolons are necessary to end a line that isn't a loop or if statement
+(aamumu*720) // variable being multiplied 
+
+// missing end character syntax error $
+
+then <statement> and then end, but no end program character results in an error due to no indication of program end

@@ -1,0 +1,18 @@
+^
+syndra=230;
+loop(syndra<738)
+{
+  syndra*4;
+}
+
+seraphin=1;
+loop(seraphin<=10)
+{
+  seraphin+3;
+}
+
+bbrand=5000r;
+bbrand-seraphin;
+
+$
+

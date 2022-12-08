@@ -1,0 +1,17 @@
+  ^  //(lex error)
+aurelionsol=230;     //Exceeds maximum length of variable name (which is 8)
+co(syndra<1000)    //Missing character for if statement (error due to token not registered)
+{
+  syndra*4;
+}
+
+ashe=1;             //Variable name length below minimum acceptable (which is 6)
+loop(seraphin<=10)
+{
+  seraphin+3;
+}
+
+2bbrand=5000r;    //Spelling error (can't start with integer)
+2bbrand-seraphin;
+
+$
